@@ -462,7 +462,7 @@ body {
     width: 1000px;
     height: 600px;
     margin-left: 80px;
-    background-image: url(/img/bg-img1.png);
+    background-image: url(img/bg-img1.png);
     background-size: cover;
     background-position: right center;
     background-repeat: no-repeat;
@@ -479,12 +479,12 @@ body {
 
 .tt-st .box-container .right-box .top-right-box {
     margin-bottom: 20px;
-    background-image: url(/img/bg-img2.png);
+    background-image: url(img/bg-img2.png);
     position: relative;
 }
 
 .tt-st .box-container .right-box .bottom-right-box {
-    background-image: url(/img/bg-img3.png);
+    background-image: url(img/bg-img3.png);
     position: relative;
 }
 
@@ -1118,21 +1118,21 @@ body {
 }
 
 .cm-card-sd .cm-card-boxs .card-box-1 {
-    background-image: url(/img/company-img1.svg);
+    background-image: url(img/company-img1.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .cm-card-sd .cm-card-boxs .card-box-2 {
-    background-image: url(/img/company-img3.svg);
+    background-image: url(img/company-img3.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .cm-card-sd .cm-card-boxs .card-box-3 {
-    background-image: url(/img/company-img2.svg);
+    background-image: url(img/company-img2.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1479,7 +1479,7 @@ body {
     width: 460px;
     height: 654px;
     position: relative;
-    background-image: url(/img/big-box-bg.svg);
+    background-image: url(img/big-box-bg.svg);
     background-size: 100%;
     background-position: top 5% center;
     background-repeat: no-repeat;
@@ -1888,39 +1888,39 @@ body {
 /* box content image, head side right column */
 
 .ht-del-sd .hot-del-ct-box .right-column .box-1 {
-    background-image: url(/img/small-box-img1.svg);
+    background-image: url(img/small-box-img1.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-2 {
-    background-image: url(/img/small-box-img2.svg);
+    background-image: url(img/small-box-img2.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-3 {
-    background-image: url(/img/small-box-img3.svg);
+    background-image: url(img/small-box-img3.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-4 {
-    background-image: url(/img/small-box-img4.svg);
+    background-image: url(img/small-box-img4.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-5 {
-    background-image: url(/img/small-box-img5.svg);
+    background-image: url(img/small-box-img5.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-6 {
-    background-image: url(/img/small-box-img6.svg);
+    background-image: url(img/small-box-img6.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-7 {
-    background-image: url(/img/small-box-img7.svg);
+    background-image: url(img/small-box-img7.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-8 {
-    background-image: url(/img/small-box-img8.svg);
+    background-image: url(img/small-box-img8.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .box-9 {
-    background-image: url(/img/small-box-img9.svg);
+    background-image: url(img/small-box-img9.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .right-column .small-box .box-cnt {
@@ -2078,11 +2078,11 @@ body {
 }
 
 .ht-del-sd .hot-del-ct-box .left-column .bottom-row .box-1 {
-    background-image: url(/img/left-small-img1.svg);
+    background-image: url(img/left-small-img1.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .left-column .bottom-row .box-2 {
-    background-image: url(/img/left-small-img2.svg);
+    background-image: url(img/left-small-img2.svg);
 }
 
 .ht-del-sd .hot-del-ct-box .left-column .bottom-row .small-box .box-cnt {
@@ -2179,7 +2179,7 @@ body {
 .container .header .sm-sl-sd .sm-sl-box {
     width: 1320px;
     height: 358px;
-    background-image: url(/img/discount-bn-bg.svg);
+    background-image: url(img/discount-bn-bg.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2374,27 +2374,27 @@ body {
 /* featured content side box  */
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-1 {
-    background-image: url(/img/fp-pro2.svg);
+    background-image: url(img/fp-pro2.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-2 {
-    background-image: url(/img/fp-pro1.svg);
+    background-image: url(img/fp-pro1.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-3 {
-    background-image: url(/img/fp-pro3.svg);
+    background-image: url(img/fp-pro3.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-4 {
-    background-image: url(/img/fp-pro4.svg);
+    background-image: url(img/fp-pro4.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-5 {
-    background-image: url(/img/fp-pro5.svg);
+    background-image: url(img/fp-pro5.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box-6 {
-    background-image: url(/img/fp-pro6.svg);
+    background-image: url(img/fp-pro6.svg);
 }
 
 .ft-pro-sd .sld-sd .swiper-container .swiper-wrapper .box {
@@ -2662,15 +2662,15 @@ body {
 /* swiper contend side (lt-nws-sd) */
 
 .lt-nws-sd .sld-sd-lt .swiper-container-lt .swiper-wrapper .box-1 {
-    background-image: url(/img/lt-nw-1.svg);
+    background-image: url(img/lt-nw-1.svg);
 }
 
 .lt-nws-sd .sld-sd-lt .swiper-container-lt .swiper-wrapper .box-2 {
-    background-image: url(/img/lt-nw-2.svg);
+    background-image: url(img/lt-nw-2.svg);
 }
 
 .lt-nws-sd .sld-sd-lt .swiper-container-lt .swiper-wrapper .box-3 {
-    background-image: url(/img/lt-nw-3.svg);
+    background-image: url(img/lt-nw-3.svg);
 }
 
 .lt-nws-sd .sld-sd-lt .swiper-container-lt .swiper-wrapper .box {

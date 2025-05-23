@@ -261,7 +261,7 @@ function togglePaginationVisibility() {
     const windowWidth = window.innerWidth;
     const pagination = document.querySelector('.swiper-pagination-ft');
     
-    // Pagination sadece 425px ve daha küçük ekranlarda görünsün
+
     if (windowWidth <= 425) {
         pagination.style.display = 'block'; 
     } else {
@@ -269,7 +269,7 @@ function togglePaginationVisibility() {
     }
 }
 
-// Sayfa yüklendiğinde ve pencere boyutu değiştiğinde fonksiyonu çağır
+
 window.addEventListener('load', togglePaginationVisibility);
 window.addEventListener('resize', togglePaginationVisibility);
 
